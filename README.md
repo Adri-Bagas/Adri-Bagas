@@ -2,7 +2,6 @@
 <h1 align="center">
  I'm Bagas
 </h1>
-===============
 
 Currently studying at school, love to code and play video game, currently working on getting good at making an app, 
 really interested in game development. Nice to meet you! 
