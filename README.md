@@ -7,7 +7,7 @@
 
 <p align="center">
 
-Currently studying at school, love to code and play video game, currently working on getting good at making an app, 
+Currently studying at school, love to code and play video game, \ncurrently working on getting good at making an app, 
 really interested in game development. Nice to meet you! 
  
  </p>
