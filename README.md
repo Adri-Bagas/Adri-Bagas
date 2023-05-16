@@ -3,10 +3,14 @@
  I'm Bagas
 </h1>
 
-![](https://komarev.com/ghpvc/?username=Adri-Bagas)
+<!-- ![](https://komarev.com/ghpvc/?username=Adri-Bagas) -->
+
+<p align="center">
 
 Currently studying at school, love to code and play video game, currently working on getting good at making an app, 
 really interested in game development. Nice to meet you! 
+ 
+ </p>
 
 
 <!-- Here are some ideas to get you started:
