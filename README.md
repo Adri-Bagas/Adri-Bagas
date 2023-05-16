@@ -5,7 +5,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=Adri-Bagas) -->
 
-<p align="center">
+<p align="center" style="margin-right: 30px;margin-left: 30px;">
 
 Currently studying at school, love to code and play video game, 
  currently working on getting good at making an app, 
