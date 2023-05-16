@@ -1,5 +1,9 @@
 ### Hi there 👋
-## I'm Bagas
+I'm Bagas
+===============
+
+Currently studying at school, love to code and play video game, currently working on getting good at making an app, 
+really interested in game development. Nice to meet you! 
 
 
 <!-- Here are some ideas to get you started:
