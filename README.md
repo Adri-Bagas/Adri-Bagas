@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Bagas
+<center>I'm Bagas</center>
 ===============
 
 Currently studying at school, love to code and play video game, currently working on getting good at making an app, 
